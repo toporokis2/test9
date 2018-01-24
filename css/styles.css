@@ -1,12 +1,21 @@
 .Caja1{
-	height: 500px;
+	height: 200px;
 	width: 200px;
-	padding: 20px;
-	background-color: #ff0000;
+	display: flex;	
+	justify-content: center;
+	background-color: salmon;
 }
 
 .Body1{
+	display: flex;
+	background-color: gold;
 
-	background-color: #00fccc;
+}
 
+.Caja2{
+	height: 200px;
+	width: 200px;
+	display: flex;
+	justify-content: center;
+	background-color: darkturquoise;
 }
